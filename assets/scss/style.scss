@@ -1,0 +1,54 @@
+body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull):not(.wp-block-post-featured-image):not(.fus-form):not(.uwp-register-class):not(.uwp-login-class)) {
+	max-width: 1280px;
+}
+
+.wp-block-post-content {
+	.bfe-edit-post-button {
+		margin-top: 58px;
+		padding: 0.6rem 1rem;
+		background-color: #111111;
+	}
+}
+
+.uwp_widget_author_box {
+	img {
+		display: none;
+	}
+}
+
+.caf-post-layout4 .caf-meta-content-cats {
+	li a {
+		background-color: #abb8c3;
+	}
+}
+
+.bsui .uwp_page .col-lg-9 {
+	width: 34%;
+}
+
+.bfe-editor.default {
+	box-shadow: 0 4px 15px 0 rgba(0, 0, 0, 0.05);
+
+	.wrapper .column {
+		padding-right: 24px;
+		padding-left: 24px;
+	}
+}
+
+.fus-form-block-header .sub-header{
+	justify-content: end;
+	padding: 15px;
+}
+
+.caf-post-layout4 {
+	box-shadow: 0 4px 15px 0 rgba(0, 0, 0, 0.05);
+
+	.caf-featured-img-box {
+		box-shadow: none;
+		border: unset;
+	}
+}
+
+.caf-col-md-12 {
+	padding-left: 0;
+}
