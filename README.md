@@ -1,4 +1,4 @@
-# Simple Blog using WordPress - Setup and Features
+# [Simple Blog using WordPress - Setup and Features](http://blog.web-dev.team/)
 
 This guide outlines the setup and features implemented in our WordPress blog, ensuring a seamless user experience for both the admin and the visitors. The blog leverages WordPress, a robust content management system, to create, edit, and manage posts with ease.
 
